@@ -1,6 +1,6 @@
 # SeleniaProject
 
-logo.png
+![image](https://github.com/SeleniaProject/SeleniaProject/issues/1#issue-3202482529)
 
 ---
 
