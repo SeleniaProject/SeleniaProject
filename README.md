@@ -1,6 +1,6 @@
 # SeleniaProject
 
-@logo.png
+logo.png
 
 ---
 
