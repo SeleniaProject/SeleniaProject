@@ -1,7 +1,5 @@
 # SeleniaProject
 
-![image](https://github.com/SeleniaProject/SeleniaProject/issues/1#issue-3202482529)
-
 ---
 
 ## 🚀 Welcome to SeleniaProject
